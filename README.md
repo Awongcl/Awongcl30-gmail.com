@@ -1,2 +1,1 @@
-# Awongcl30-gmail.com
-Solar LiPo Manager
+# Solar LiPo Manager
