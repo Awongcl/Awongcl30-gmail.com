@@ -1,5 +1,6 @@
 # Solar LiPo Manager
-The goal of this project is to develop a PCB that supports LiPo charging by either Solar/USB input with battery protection features integrated. Then output a regulated 3.3V output to power other electronics, mainly low power microcontroller.
+## Goal
+Develop a PCB that supports LiPo charging by either Solar/USB input with battery protection features integrated. Then output a regulated 3.3V output to power other electronics, mainly low power microcontroller.
 
 ## Requirments:
 1. 2 Methos of charging : Solar and USB
