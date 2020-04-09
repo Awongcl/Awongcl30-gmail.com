@@ -8,3 +8,9 @@ Develop a PCB that supports LiPo charging by either Solar/USB input with battery
 3. Add in battery protection IC's
 
 ## Approach:
+
+## Schematic
+![](Images/Schematic.jpg) 
+
+## PCB
+![](Images/PCB.gif) 
