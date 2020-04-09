@@ -9,8 +9,8 @@ Develop a PCB that supports LiPo charging by either Solar/USB input with battery
 
 ## Approach:
 
-## Schematic
-![](Images/Schematic.jpg) 
+## Schematic:
+![](Images/Schematic.JPG) 
 
-## PCB
+## PCB:
 ![](Images/PCB.gif) 
