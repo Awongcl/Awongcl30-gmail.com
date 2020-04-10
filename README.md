@@ -7,10 +7,10 @@ Develop a PCB that supports LiPo charging by either Solar/USB input with battery
 2. Output must be stable at 3.3V
 3. Add in battery protection IC's
 
-## Approach:
+## Implementation:
 
-## Schematic:
+### Schematic:
 ![](Images/Schematic.JPG) 
 
-## PCB:
+### PCB:
 ![](Images/PCB.gif) 
