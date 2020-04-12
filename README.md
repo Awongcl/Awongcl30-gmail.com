@@ -16,12 +16,12 @@ Develop a PCB that supports LiPo charging by either Solar/USB input with battery
 ![](Images/PCB.gif) <br/>
 Actual Product:<br/>
 ![](Images/Light.jpg) 
-RED led --> Charging
-Green led --> Done
+RED led --> Charging<br/>
+Green led --> Done<br/>
 ### Testing/Verification:
 3.3 Regulated output:
 ![](Images/3.3.jpg) 
-Powered  circuit
+Powered  circuit:
 ![](Images/Output.jpg) 
 
 ### Conclusion/Problems
