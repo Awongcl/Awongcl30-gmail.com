@@ -1,4 +1,4 @@
-# Solar LiPo Manager
+# Solar LiPo Manager  (Discontinued)
 ## Goal
 Develop a PCB that supports LiPo charging by either Solar/USB input with battery protection features integrated. Then output a regulated 3.3V output to power other electronics, mainly low power microcontroller.
 
